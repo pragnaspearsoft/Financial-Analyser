@@ -1,4 +1,4 @@
-# Financial Report Analysis and Compliance Assessment Tool
+# Financial Insights Generator and Compliance Assessment Tool
 
 ## Overview
 This application automates financial report analysis and compliance assessments using AI and NLP techniques. It extracts data from uploaded PDFs, answers predefined financial questions, evaluates regulatory compliance, and generates structured financial summaries.
